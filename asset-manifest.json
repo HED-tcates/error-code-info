@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/error-code-info/static/css/main.d18f2b7a.css",
-    "main.js": "/error-code-info/static/js/main.c01a85cf.js",
+    "main.js": "/error-code-info/static/js/main.fadd2850.js",
     "index.html": "/error-code-info/index.html",
     "main.d18f2b7a.css.map": "/error-code-info/static/css/main.d18f2b7a.css.map",
-    "main.c01a85cf.js.map": "/error-code-info/static/js/main.c01a85cf.js.map"
+    "main.fadd2850.js.map": "/error-code-info/static/js/main.fadd2850.js.map"
   },
   "entrypoints": [
     "static/css/main.d18f2b7a.css",
-    "static/js/main.c01a85cf.js"
+    "static/js/main.fadd2850.js"
   ]
 }
