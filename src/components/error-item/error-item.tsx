@@ -21,10 +21,10 @@ function ErrorItem(props: ErrorItemProps) {
         }}
       >
         <div className="error-item-summary">
-        <div>
-          <strong>{props.error.id}</strong>
-        </div>
-        <div className="error-item-title">{props.error.title}</div>
+          <div>
+            <strong>{props.error.title}</strong>
+          </div>
+          <div className="error-item-title">{props.error.id}</div>
         </div>
       </AccordionSummary>
       <AccordionDetails sx={{ backgroundColor: "#b5c5e6" }}>
