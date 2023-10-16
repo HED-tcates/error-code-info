@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/error-code-info/static/css/main.d18f2b7a.css",
+    "main.js": "/error-code-info/static/js/main.55e44603.js",
+    "index.html": "/error-code-info/index.html",
+    "main.d18f2b7a.css.map": "/error-code-info/static/css/main.d18f2b7a.css.map",
+    "main.55e44603.js.map": "/error-code-info/static/js/main.55e44603.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d18f2b7a.css",
+    "static/js/main.55e44603.js"
+  ]
+}
