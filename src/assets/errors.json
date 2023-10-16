@@ -1,0 +1,47 @@
+[
+    {
+        "id": "39_518365",
+        "title": "No Mod 2 Comms Loss",
+        "info": "More information on this error code"
+    },
+    {
+        "id": "39_518369",
+        "title": "No Mod 10 Comms Loss",
+        "info": "More information on this error code"
+    },
+    {
+        "id": "3_751",
+        "title": "Grar Shift Mode Incompatible",
+        "info": "More information on this error code"
+    },
+    {
+        "id": "39_518180",
+        "title": "DS Body Door Open",
+        "info": "More information on this error code"
+    },
+    {
+        "id": "39_518177",
+        "title": "PS Cab Door Open",
+        "info": "More information on this error code"
+    },
+    {
+        "id": "39_518151",
+        "title": "Do Not Move Truck",
+        "info": "More information on this error code"
+    },
+    {
+        "id": "39_518147",
+        "title": "Check Transmission",
+        "info": "More information on this error code"
+    },
+    {
+        "id": "3_2003",
+        "title": "Check Transmission Indicator",
+        "info": "More information on this error code"
+    },
+    {
+        "id": "3_573",
+        "title": "TCC System Stuck OFF",
+        "info": "More information on this error code"
+    }
+]
