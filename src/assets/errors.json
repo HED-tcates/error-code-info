@@ -2,46 +2,46 @@
     {
         "id": "39_518365",
         "title": "No Mod 2 Comms Loss",
-        "info": "More information on this error code"
+        "info": "This error occurs when there is a communication breakdown between Module 2 and the central system. This error may arise due to various factors, including interference in the communication channel, a malfunctioning connection, or unexpected signal disruptions. To resolve this issue, please ensure that all connections are secure and free from interference. Additionally, check for any physical damage to the communication modules. If the problem persists, consult your system administrator or technical support for further assistance."
     },
     {
         "id": "39_518369",
         "title": "No Mod 10 Comms Loss",
-        "info": "More information on this error code"
+        "info": "This error indicates a loss of communication between Module 10 and the central system. This error can be caused by issues such as signal interference, improper configuration, or hardware problems. To address this error, first, check the connections and cables associated with Module 10, ensuring they are securely connected and free from any interference. If the issue continues, it is advisable to consult your system's documentation or reach out to your technical support team for assistance."
     },
     {
         "id": "3_751",
-        "title": "Grar Shift Mode Incompatible",
-        "info": "More information on this error code"
+        "title": "Gear Shift Mode Incompatible",
+        "info": "This error occurs when the selected gear shift mode is not compatible with the current operating conditions. This error may be triggered by attempting to shift gears when it's not safe to do so, or when there's a mismatch between the selected mode and the vehicle's current state. To resolve this issue, make sure to follow the recommended gear shifting procedures outlined in your user manual. Pay close attention to safety guidelines and ensure that the chosen gear is suitable for the driving conditions."
     },
     {
         "id": "39_518180",
         "title": "DS Body Door Open",
-        "info": "More information on this error code"
+        "info": "This error indicates that the driver-side body door is not securely closed. This issue can lead to safety concerns and potential problems while driving. To address this error, please make sure to firmly close the driver-side body door, ensuring that it is latched securely. Always double-check for any obstructions that might prevent the door from closing properly. If the error persists, avoid driving the vehicle and consult your vehicle's owner's manual or reach out to a certified technician for assistance."
     },
     {
         "id": "39_518177",
         "title": "PS Cab Door Open",
-        "info": "More information on this error code"
+        "info": "This error signifies that the passenger-side cab door is not properly closed. This condition may compromise safety and lead to unexpected issues during operation. To resolve this error, ensure that the passenger-side cab door is securely shut and latched. Be attentive to any potential obstructions that may hinder proper door closure. If the issue persists, avoid using the vehicle, and refer to the vehicle's owner's manual or seek assistance from a qualified technician."
     },
     {
         "id": "39_518151",
         "title": "Do Not Move Truck",
-        "info": "More information on this error code"
+        "info": "This error is a critical warning that indicates it is unsafe to operate the truck under the current circumstances. This error may arise due to various issues, such as low brake pressure, critical system malfunctions, or other unsafe conditions. To ensure safety, do not attempt to move the truck when this error is displayed. Instead, carefully review the error code details in your vehicle's manual and take the recommended actions, which may include contacting a qualified technician for assistance."
     },
     {
         "id": "39_518147",
         "title": "Check Transmission",
-        "info": "More information on this error code"
+        "info": "This error is a diagnostic message that suggests potential issues with the vehicle's transmission system. This can be caused by various factors, including low fluid levels, sensor malfunctions, or irregular transmission behavior. To address this error, it is advisable to consult your vehicle's user manual for specific guidance on transmission checks and maintenance procedures. If the issue persists, consider seeking assistance from a certified mechanic or service center."
     },
     {
         "id": "3_2003",
         "title": "Check Transmission Indicator",
-        "info": "More information on this error code"
+        "info": "This error is an alert that warns of potential problems with the vehicle's transmission system. This warning can be triggered by factors such as low transmission fluid, sensor malfunctions, or unusual transmission behavior. To resolve this issue, consult your vehicle's user manual for detailed instructions on how to check the transmission system and address common issues. If the problem persists, it is recommended to seek professional assistance from a qualified mechanic or service center."
     },
     {
         "id": "3_573",
         "title": "TCC System Stuck OFF",
-        "info": "More information on this error code"
+        "info": "This error signifies that the Torque Converter Clutch (TCC) system is currently deactivated or not functioning as expected. This may result from various factors, including electrical problems, sensor failures, or issues with the TCC solenoid. To address this error, consult your vehicle's user manual for guidance on diagnosing and resolving TCC system-related issues. In case you are unable to rectify the problem, consider reaching out to a qualified mechanic or authorized service center for further assistance."
     }
 ]
